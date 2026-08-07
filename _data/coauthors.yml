@@ -1,0 +1,6 @@
+# Map co-authors to their websites so their names link automatically in your
+# publications list. Keys are lower-cased surnames without accents. Example:
+#
+# "cramer":
+#   - firstname: ["Katherine", "Kathy", "K."]
+#     url: https://polisci.wisc.edu/staff/cramer-katherine/

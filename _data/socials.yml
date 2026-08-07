@@ -1,0 +1,10 @@
+# Social and contact links shown at the bottom of the About page (and in search).
+# They appear in the order defined here.
+# Docs: https://github.com/george-gca/jekyll-socials
+email: riley.rice@wisc.edu
+osf_id: rhdqs # https://osf.io/rhdqs/
+linkedin_username: riley-rice-348388198 # https://www.linkedin.com/in/riley-rice-348388198/
+custom_social: # UW–Madison department page (icon shown instead of an image)
+  logo: fa-solid fa-building-columns
+  title: Department Website
+  url: https://polisci.wisc.edu/staff/rice-riley/
