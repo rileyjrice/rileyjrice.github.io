@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rileyjrice.github.io/sitemap.xml
