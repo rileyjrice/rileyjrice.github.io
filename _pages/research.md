@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: Working papers and works in progress.
 nav: true
 nav_order: 1
