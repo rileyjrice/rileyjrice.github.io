@@ -4,7 +4,6 @@ title: cv
 permalink: /cv/
 nav: true
 nav_order: 2
-description: My curriculum vitae.
 hide_title: true
 ---
 
