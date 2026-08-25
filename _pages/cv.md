@@ -5,7 +5,10 @@ permalink: /cv/
 nav: true
 nav_order: 2
 description: My curriculum vitae.
+hide_title: true
 ---
+
+# CV
 
 <a class="btn btn-outline-primary" href="{{ '/assets/pdf/CV_Rice.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-file-pdf"></i>&nbsp; Download CV (PDF)
