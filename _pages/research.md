@@ -13,11 +13,14 @@ hide_title: true
 {% include bib_search.liquid %}
 
 <div class="publications">
-  
+
+  <h2>Forthcoming</h2>
+  {% bibliography --query @*[category=forthcoming] --group_by none %}
+
   <h2>Working Papers</h2>
   {% bibliography --query @*[category=working] --group_by none %}
-  
+
   <h2>Work in Progress</h2>
   {% bibliography --query @*[category=wip] --group_by none %}
-  
-  </div>
+
+</div>
