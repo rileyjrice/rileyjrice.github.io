@@ -9,7 +9,7 @@ hide_title: true
 
 # Background
 
-I grew up on Rice Road in rural upstate New York, on land my family has lived on for five generations. As an undergraduate, I competed in Division I rowing for four years. I love the outdoors and can often be found running, fishing, camping, and hiking in my spare time.
+I grew up on Rice Road in rural upstate New York, where my family has lived on for five generations. As an undergraduate, I competed in Division I rowing for four years. I love the outdoors and can often be found running, fishing, camping, and hiking in my spare time.
 
 <div class="row justify-content-sm-center mt-4">
   <div class="col-sm-4 mt-3 mt-md-0">
