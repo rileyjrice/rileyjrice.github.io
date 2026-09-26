@@ -35,4 +35,4 @@ Class identity, political behavior, rural politics, and American political econo
 
 I am a third-year PhD student in the Department of Political Science at the University of Wisconsin–Madison, specializing in American Politics. My research interests lie at the intersection of political identity, class politics, and electoral behavior, with a particular focus on how Americans define and contest the boundaries of the working class.
 
-Prior to joining UW–Madison, I graduated summa cum laude from Colgate University with a BA in Political Science and Environmental Studies and worked at the Library of Congress.
+Prior to joining UW–Madison, I graduated <i>summa cum laude</i> from Colgate University with a BA in Political Science and Environmental Studies and worked at the Library of Congress.
