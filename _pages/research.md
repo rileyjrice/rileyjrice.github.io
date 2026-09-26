@@ -22,7 +22,7 @@ hide_title: true
 <h2>Forthcoming</h2>
 <ol class="bibliography">
   <li>
-    Katherine Cramer, Gilchrist, Qiu, <strong>Rice</strong>, Hueston, Lopez, Lyn, and Matthews.
+    Katherine Cramer, Gilchrist, Qiu, <strong>Rice</strong>, Hueston, Lopez, Lyn, and Craig-Barnes
     <em>The Role of Local Democratic Life in Rural Livability.</em> Chapter 9 in
     <em>Redefining Community Economic Development Through Rural Livability</em>,
     under contract at Taylor &amp; Francis.
@@ -37,7 +37,7 @@ hide_title: true
     presented at APSA 2026 and MPSA 2026.
   </li>
   <li>
-    Katherine Cramer, Czeponis, Gilgrist, Jones-Kerwin, Laguide, Lopez, Lyn, Matthews,
+    Katherine Cramer, Gilchrist, Czeponis, Jones-Kerwin, Laguide, Lopez, Lyn, Craig-Barnes,
     McMullen, Qiu, <strong>Rice</strong>, and Woley.
     <em>Democracy Work: Understanding Workers' Contributions to Civil Society</em>,
     presented at APSA 2025.
