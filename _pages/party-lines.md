@@ -15,7 +15,7 @@ hide_title: true
 
 <div style="font-size: 1.15rem;" markdown="1">
 
-**Party Lines 2026** is a forecasting game I designed for the 2026 midterms. Call the winner and the margin in 16 competitive Senate races, seal your picks before polls close on November 3, and see how your calls stack up against everyone else's as the results come in.
+**Party Lines 2026** is a forecasting game I designed for the 2026 midterms. Predict the winner and the margin in 16 competitive Senate races, seal your picks before polls close on November 3, and see how your calls stack up against everyone else's as the results come in.
 
 Joining requires a game password. If you'd like to play, get in touch at [rileyjamesrice01@gmail.com](mailto:rileyjamesrice01@gmail.com) and I'll send it to you.
 
