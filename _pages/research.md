@@ -22,33 +22,34 @@ hide_title: true
 <h2>Forthcoming</h2>
 <ol class="bibliography">
   <li>
-    Katherine Cramer, Gilchrist, Qiu, <strong>Rice</strong>, Hueston, Lopez, Lyn, and Craig-Barnes
     <em>The Role of Local Democratic Life in Rural Livability.</em> Chapter 9 in
     <em>Redefining Community Economic Development Through Rural Livability</em>,
-    under contract at Taylor &amp; Francis.
+    under contract at Taylor &amp; Francis
+    (joint with Katherine Cramer, Acadia Gilchrist, Jacqueline Qiu, Katherine Hueston,
+    Matthias Lopez, Cody-Ann Lyn, and Emily Craig-Barnes).
   </li>
 </ol>
 
 <h2>Working Papers</h2>
 <ol class="bibliography">
   <li>
-    <strong>Rice, Riley</strong>
     <em>Asymmetric Partisan Visions of the American Working Class</em>,
     presented at APSA 2026 and MPSA 2026.
   </li>
   <li>
-    Katherine Cramer, Gilchrist, Czeponis, Jones-Kerwin, Laguide, Lopez, Lyn, Craig-Barnes,
-    McMullen, Qiu, <strong>Rice</strong>, and Woley.
     <em>Democracy Work: Understanding Workers' Contributions to Civil Society</em>,
-    under review.
+    under review
+    (joint with Katherine Cramer, Acadia Gilchrist, Larry Czeponis, Natalie Jones-Kerwin,
+    Fawziyah Laguide, Matthias Lopez, Cody-Ann Lyn, Emily Craig-Barnes, Isabel McMullen,
+    Jacqueline Qiu, and Peyton Woley).
   </li>
 </ol>
 
 <h2>Work in Progress</h2>
 <ol class="bibliography">
-  <li> Sorresso, Gabrielle and <strong>Rice, Riley</strong> <em>Measles Outbreaks and the 2026 Midterms.</em></li>
-  <li><strong>Rice, Riley</strong> <em>Candidate Appeals and the Imagined Working Class.</em></li>
-  <li><strong>Rice, Riley</strong> <em>Working-Class Language in Campaign Communication.</em></li>
+  <li><em>Measles Outbreaks and the 2026 Midterms</em> (joint with Gabrielle Sorresso)</li>
+  <li><em>Candidate Appeals and the Imagined Working Class.</em></li>
+  <li><em>Working-Class Language in Campaign Communication.</em></li>
 </ol>
 
 </div>
