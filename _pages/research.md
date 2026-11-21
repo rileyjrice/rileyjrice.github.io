@@ -46,7 +46,7 @@ hide_title: true
 
 <h2>Work in Progress</h2>
 <ol class="bibliography">
-  <li> Sorresso, Gabrielle, <strong>Rice, Riley</strong> <em>Measles Outbreaks and the 2026 Midterms.</em></li>
+  <li> Sorresso, Gabrielle and <strong>Rice, Riley</strong> <em>Measles Outbreaks and the 2026 Midterms.</em></li>
   <li><strong>Rice, Riley</strong> <em>Candidate Appeals and the Imagined Working Class.</em></li>
   <li><strong>Rice, Riley</strong> <em>Working-Class Language in Campaign Communication.</em></li>
 </ol>
