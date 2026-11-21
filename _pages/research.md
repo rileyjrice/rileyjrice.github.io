@@ -32,7 +32,7 @@ hide_title: true
 <h2>Working Papers</h2>
 <ol class="bibliography">
   <li>
-    <strong>Rice, Riley J.</strong>
+    <strong>Rice, Riley</strong>
     <em>Asymmetric Partisan Visions of the American Working Class</em>,
     presented at APSA 2026 and MPSA 2026.
   </li>
@@ -40,14 +40,15 @@ hide_title: true
     Katherine Cramer, Gilchrist, Czeponis, Jones-Kerwin, Laguide, Lopez, Lyn, Craig-Barnes,
     McMullen, Qiu, <strong>Rice</strong>, and Woley.
     <em>Democracy Work: Understanding Workers' Contributions to Civil Society</em>,
-    presented at APSA 2025.
+    under review.
   </li>
 </ol>
 
 <h2>Work in Progress</h2>
 <ol class="bibliography">
-  <li><strong>Rice, Riley J.</strong> <em>Candidate Appeals and the Imagined Working Class.</em></li>
-  <li><strong>Rice, Riley J.</strong> <em>Working-Class Language in Campaign Communication.</em></li>
+  <li> Sorresso, Gabrielle, <strong>Rice, Riley</strong> <em>Measles Outbreaks and the 2026 Midterms.</em></li>
+  <li><strong>Rice, Riley</strong> <em>Candidate Appeals and the Imagined Working Class.</em></li>
+  <li><strong>Rice, Riley</strong> <em>Working-Class Language in Campaign Communication.</em></li>
 </ol>
 
 </div>
