@@ -15,6 +15,9 @@ hide_title: true
   text-indent: -1.5em;
   margin-bottom: 0.8em;
 }
+.publications strong {
+  font-weight: 700;
+}
 </style>
 
 <div class="publications">
